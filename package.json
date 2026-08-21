@@ -1,0 +1,8 @@
+{
+  "name": "bibliocom",
+  "private": true,
+  "scripts": {
+    "dev:api": "pnpm --filter backend start:dev",
+    "dev:web": "pnpm --filter frontend dev"
+  }
+}
