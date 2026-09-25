@@ -13,3 +13,5 @@ pnpm dev:web          # http://localhost:5173
 ```
 
 Os mesmos comandos valem no Windows, no macOS e no Linux.
+
+## Nossa equipe
