@@ -12,7 +12,7 @@
 | Paginação: estilo e tamanho padrão                  | uso de `count`, `next`, `previous` e `results` com 20 itens como tamanho padrão           |
 | Como se filtra, ordena e busca                      | parâmetros query string com `?q=`, `?ordering=` e `?{tipoEx}=`                            |
 | Formato do erro de validação e do erro de permissão | objeto JSON erro 400/ 401 para autenticação e 403 para permissão                          |
-| Relações                                            | elacionamentos serão representados de forma aninhada; na escrita, serão informados por ID |
+| Relações                                            | relacionamentos serão representados de forma aninhada; na escrita, serão informados por ID |
 
 ## Tabela de Recursos
 
